@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome, Visitor❕"
+title                    : "Home❕"
 title_separator          : "-"
 name                     : &name "Darius"
 description              : &description "personal description"
